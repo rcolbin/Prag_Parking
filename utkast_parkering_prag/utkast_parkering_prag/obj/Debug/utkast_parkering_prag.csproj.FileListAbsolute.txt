@@ -1,0 +1,7 @@
+C:\Users\Robin\source\repos\utkast_parkering_prag\utkast_parkering_prag\bin\Debug\utkast_parkering_prag.exe.config
+C:\Users\Robin\source\repos\utkast_parkering_prag\utkast_parkering_prag\bin\Debug\utkast_parkering_prag.exe
+C:\Users\Robin\source\repos\utkast_parkering_prag\utkast_parkering_prag\bin\Debug\utkast_parkering_prag.pdb
+C:\Users\Robin\source\repos\utkast_parkering_prag\utkast_parkering_prag\obj\Debug\utkast_parkering_prag.csprojAssemblyReference.cache
+C:\Users\Robin\source\repos\utkast_parkering_prag\utkast_parkering_prag\obj\Debug\utkast_parkering_prag.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\utkast_parkering_prag\utkast_parkering_prag\obj\Debug\utkast_parkering_prag.exe
+C:\Users\Robin\source\repos\utkast_parkering_prag\utkast_parkering_prag\obj\Debug\utkast_parkering_prag.pdb
